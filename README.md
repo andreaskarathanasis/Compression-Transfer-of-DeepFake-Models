@@ -1,1 +1,1 @@
-The code will be made publicly available on GitHub once the paper "Compression & Transfer Learning of DeepFake Detection Models on Android mobile phones" is accepted.
+Currently, the repository contains basic code implementations for the four compression methods used in the paper—pruning, knowledge distillation (KD), and quantization—as well as the models' code. In the near future, fully developed training, compression, and transfer learning pipelines will be added.
