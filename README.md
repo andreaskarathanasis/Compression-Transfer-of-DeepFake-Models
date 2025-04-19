@@ -1,1 +1,1 @@
-Currently, the repository contains basic code implementations for the four compression methods used in the paper—pruning, knowledge distillation (KD), and quantization—as well as the models' code. In the near future, fully developed training, compression, and transfer learning pipelines will be added.
+Currently, the repository contains basic code implementations for the four compression methods used in the paper—pruning, knowledge distillation (KD), and quantization—as well as the models' code.
